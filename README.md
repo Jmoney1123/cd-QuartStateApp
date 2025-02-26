@@ -1,4 +1,4 @@
- "doptwk@gmail.com"# Quart State App
+# Quart State App
 
 This application simulates a quart-state system with superposition using React Native and TypeScript.
 
