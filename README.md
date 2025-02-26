@@ -1,4 +1,4 @@
-# Quart State App
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"# Quart State App
 
 This application simulates a quart-state system with superposition using React Native and TypeScript.
 
